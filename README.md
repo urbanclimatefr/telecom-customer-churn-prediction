@@ -8,6 +8,8 @@
 - 1) df_imputed.csv
 - 2) features_selected_new.txt
 
+- The formal written report is report.pdf.
+- The requirement of this project is in Assessment Brief.pdf.
 
 - Supervised learning algorithm was used to build churn prediction model to help solve a telecoms company's customer churn problem.
 - Decision tree classifiers and optimisation techniques were used for feature selection. 
